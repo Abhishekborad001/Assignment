@@ -1,5 +1,0 @@
-1.Guido van Rossum
-2.Python is an interpreted programming language, supporting object-oriented, stru	ctured, and functional programming.
-3. Yes
-4. .py
-5. python program is first compiled and then interpreted. 	
